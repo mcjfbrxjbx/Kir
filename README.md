@@ -1,1 +1,1 @@
-# Kir
+# DeBuG-Panel
